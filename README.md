@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.youtube.com/@reactjsbd">
-    <img src=".github/images/banner.jpg" alt="Lynx JS from Scratch: build bBash Global, a real wallet app for iOS, Android and the web" width="100%" />
+  <a href="https://youtu.be/FQLa16GoUQw">
+    <img src=".github/images/banner.jpg" alt="Lynx JS Full Course: build bBash Global, a real wallet app for iOS, Android and the web. Watch on YouTube." width="100%" />
   </a>
 </p>
 
@@ -12,6 +12,11 @@
 </p>
 
 <p align="center">
+  <a href="https://youtu.be/FQLa16GoUQw"><img src="https://img.shields.io/badge/▶%20Watch%20the%20full%20course-13%20hours%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the full course: 13 hours on YouTube" /></a>
+  <a href="https://buymeacoffee.com/reactbd/e/601029"><img src="https://img.shields.io/badge/Get%20the%20full%20source%20code-App%20%2B%20Server%20%2B%20iOS%20%2B%20Android%20%2B%20Web-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Get the full source code: app, server, iOS, Android and web" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/@reactjsbd"><img src="https://img.shields.io/badge/YouTube-@reactjsbd-FF0000?logo=youtube&logoColor=white" alt="YouTube @reactjsbd" /></a>
   <img src="https://img.shields.io/badge/Lynx-ReactLynx-E3146B" alt="Lynx and ReactLynx" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
@@ -19,6 +24,11 @@
 </p>
 
 ---
+
+> [!IMPORTANT]
+> **▶ Watch the course:** [Lynx JS Full Course: Build a Real Wallet App (13 Hours)](https://youtu.be/FQLa16GoUQw). Every file typed and explained on screen, from an empty folder to iPhone, Android and the web.
+>
+> **💻 Want the finished project?** [Get the complete bBash Global source code](https://buymeacoffee.com/reactbd/e/601029): the Lynx app, the NestJS server, the native iPhone and Android hosts, Lynx for Web, 44 tests, and step-by-step setup guides. No keys included; every `.env` value says where to get it.
 
 ## What this is
 
@@ -82,6 +92,11 @@ Copy the rest the same way when its lesson comes up, so your project grows in th
 - The data files, illustrations and app icons are the course's own, here for you to learn with and build the course project. The photos in `home.ts` are loaded from Unsplash at run time, under the Unsplash License.
 
 ## The course
+
+| | |
+| --- | --- |
+| ▶ **Full course (free)** | **[Lynx JS Full Course: Build a Real Wallet App (13 Hours)](https://youtu.be/FQLa16GoUQw)** |
+| 💻 **Finished source code** | **[bBash Global: Lynx JS Wallet App for iOS, Android & Web + NestJS API](https://buymeacoffee.com/reactbd/e/601029)** |
 
 - YouTube: [@reactjsbd](https://www.youtube.com/@reactjsbd)
 - Medium: [@reactbd](https://medium.com/@reactbd)

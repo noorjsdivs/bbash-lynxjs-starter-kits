@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://youtu.be/FQLa16GoUQw">
-    <img src=".github/images/banner.jpg" alt="Lynx JS Full Course: build bBash Global, a real wallet app for iOS, Android and the web. Watch on YouTube." width="100%" />
+    <img src=".github/images/watch-course.jpg" alt="Lynx JS Full Course: build bBash Global, a real wallet app for iOS, Android and the web. Watch on YouTube." width="100%" />
   </a>
 </p>
 
@@ -29,6 +29,59 @@
 > **▶ Watch the course:** [Lynx JS Full Course: Build a Real Wallet App (13 Hours)](https://youtu.be/FQLa16GoUQw). Every file typed and explained on screen, from an empty folder to iPhone, Android and the web.
 >
 > **💻 Want the finished project?** [Get the complete bBash Global source code](https://buymeacoffee.com/reactbd/e/601029): the Lynx app, the NestJS server, the native iPhone and Android hosts, Lynx for Web, 44 tests, and step-by-step setup guides. No keys included; every `.env` value says where to get it.
+
+## ▶ Watch the full course
+
+<p align="center">
+  <a href="https://youtu.be/FQLa16GoUQw" title="Watch Lynx JS Full Course on YouTube">
+    <img src=".github/images/watch-course.jpg" alt="Play: Lynx JS Full Course, Build a Real Wallet App (13 Hours), on YouTube" width="760" />
+  </a>
+  <br />
+  <a href="https://youtu.be/FQLa16GoUQw"><b>▶ Lynx JS Full Course: Build a Real Wallet App (13 Hours)</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://buymeacoffee.com/reactbd/e/601029"><b>💻 Get the full source code</b></a>
+</p>
+
+All 30 parts are in one video. Click any time below to jump straight to that part.
+
+<details open>
+<summary><b>The 31 chapters</b> (click a time to open the video there)</summary>
+
+| Time | Chapter |
+| --- | --- |
+| [`0:00:00`](https://youtu.be/FQLa16GoUQw?t=0) | [Trailer: what we build](https://youtu.be/FQLa16GoUQw?t=0) |
+| [`0:07:35`](https://youtu.be/FQLa16GoUQw?t=455) | [Part 1 · What Lynx is](https://youtu.be/FQLa16GoUQw?t=455) |
+| [`0:15:11`](https://youtu.be/FQLa16GoUQw?t=911) | [Part 2 · Lynx compared](https://youtu.be/FQLa16GoUQw?t=911) |
+| [`0:20:34`](https://youtu.be/FQLa16GoUQw?t=1234) | [Part 3 · Your workstation](https://youtu.be/FQLa16GoUQw?t=1234) |
+| [`0:27:00`](https://youtu.be/FQLa16GoUQw?t=1620) | [Part 4 · An empty folder](https://youtu.be/FQLa16GoUQw?t=1620) |
+| [`0:42:55`](https://youtu.be/FQLa16GoUQw?t=2575) | [Part 5 · Elements, events and Lynx CSS](https://youtu.be/FQLa16GoUQw?t=2575) |
+| [`1:02:33`](https://youtu.be/FQLa16GoUQw?t=3753) | [Part 6 · The design system](https://youtu.be/FQLa16GoUQw?t=3753) |
+| [`1:28:33`](https://youtu.be/FQLa16GoUQw?t=5313) | [Part 7 · The app shell](https://youtu.be/FQLa16GoUQw?t=5313) |
+| [`1:45:55`](https://youtu.be/FQLa16GoUQw?t=6355) | [Part 8 · Welcome and where you live](https://youtu.be/FQLa16GoUQw?t=6355) |
+| [`2:14:46`](https://youtu.be/FQLa16GoUQw?t=8086) | [Part 9 · Phone number or email](https://youtu.be/FQLa16GoUQw?t=8086) |
+| [`2:39:29`](https://youtu.be/FQLa16GoUQw?t=9569) | [Part 10 · The code, your details and a PIN](https://youtu.be/FQLa16GoUQw?t=9569) |
+| [`3:04:49`](https://youtu.be/FQLa16GoUQw?t=11089) | [Part 11 · Face ID and log-in](https://youtu.be/FQLa16GoUQw?t=11089) |
+| [`3:28:50`](https://youtu.be/FQLa16GoUQw?t=12530) | [Part 12 · Home](https://youtu.be/FQLa16GoUQw?t=12530) |
+| [`4:05:05`](https://youtu.be/FQLa16GoUQw?t=14705) | [Part 13 · The four tabs](https://youtu.be/FQLa16GoUQw?t=14705) |
+| [`4:38:28`](https://youtu.be/FQLa16GoUQw?t=16708) | [Part 14 · One path for every payment](https://youtu.be/FQLa16GoUQw?t=16708) |
+| [`5:21:35`](https://youtu.be/FQLa16GoUQw?t=19295) | [Part 15 · Send Abroad](https://youtu.be/FQLa16GoUQw?t=19295) |
+| [`6:06:10`](https://youtu.be/FQLa16GoUQw?t=21970) | [Part 16 · Identity check, limits and split bill](https://youtu.be/FQLa16GoUQw?t=21970) |
+| [`6:43:34`](https://youtu.be/FQLa16GoUQw?t=24214) | [Part 17 · Settings and the legal centre](https://youtu.be/FQLa16GoUQw?t=24214) |
+| [`7:10:06`](https://youtu.be/FQLa16GoUQw?t=25806) | [Part 18 · A native iPhone app](https://youtu.be/FQLa16GoUQw?t=25806) |
+| [`7:36:29`](https://youtu.be/FQLa16GoUQw?t=27389) | [Part 19 · Lynx for Web](https://youtu.be/FQLa16GoUQw?t=27389) |
+| [`8:04:32`](https://youtu.be/FQLa16GoUQw?t=29072) | [Part 20 · The server](https://youtu.be/FQLa16GoUQw?t=29072) |
+| [`8:31:29`](https://youtu.be/FQLa16GoUQw?t=30689) | [Part 21 · Sign-up and log-in on the server](https://youtu.be/FQLa16GoUQw?t=30689) |
+| [`9:07:49`](https://youtu.be/FQLa16GoUQw?t=32869) | [Part 22 · Connecting the app](https://youtu.be/FQLa16GoUQw?t=32869) |
+| [`9:34:17`](https://youtu.be/FQLa16GoUQw?t=34457) | [Part 23 · The ledger](https://youtu.be/FQLa16GoUQw?t=34457) |
+| [`10:00:29`](https://youtu.be/FQLa16GoUQw?t=36029) | [Part 24 · Payments on the ledger](https://youtu.be/FQLa16GoUQw?t=36029) |
+| [`10:31:41`](https://youtu.be/FQLa16GoUQw?t=37901) | [Part 25 · Staying signed in](https://youtu.be/FQLa16GoUQw?t=37901) |
+| [`10:51:46`](https://youtu.be/FQLa16GoUQw?t=39106) | [Part 26 · Real text codes with Firebase](https://youtu.be/FQLa16GoUQw?t=39106) |
+| [`11:18:11`](https://youtu.be/FQLa16GoUQw?t=40691) | [Part 27 · The support chat](https://youtu.be/FQLa16GoUQw?t=40691) |
+| [`11:57:31`](https://youtu.be/FQLa16GoUQw?t=43051) | [Part 28 · A native Android app](https://youtu.be/FQLa16GoUQw?t=43051) |
+| [`12:37:32`](https://youtu.be/FQLa16GoUQw?t=45452) | [Part 29 · Checks and tests](https://youtu.be/FQLa16GoUQw?t=45452) |
+| [`12:52:40`](https://youtu.be/FQLa16GoUQw?t=46360) | [Part 30 · Going live and what's next](https://youtu.be/FQLa16GoUQw?t=46360) |
+
+</details>
 
 ## What this is
 
